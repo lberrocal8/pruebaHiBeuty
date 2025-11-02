@@ -8,7 +8,7 @@ Aplicación desarrollada como parte de una prueba técnica para **Hibeauty**, ut
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/lberrocal8/prueba_hibeauty.git
+git clone https://github.com/lberrocal8/pruebaHiBeuty.git
 cd prueba_hibeauty
 ```
 
