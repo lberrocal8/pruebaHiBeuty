@@ -1,0 +1,35 @@
+[
+  {
+    "id": "basic",
+    "nombre": "Básico",
+    "precio": 9,
+    "beneficios": [
+      "Acceso a Cloud IDE",
+      "10Gb de almacenamiento",
+      "Soporte básico",
+      "Foros comunitarios"
+    ]
+  },
+  {
+    "id": "pro",
+    "nombre": "Pro",
+    "precio": 29,
+    "beneficios": [
+      "Acceso a Cloud IDE",
+      "Soporte prioritario",
+      "Repositorios privados",
+      "Colaboración en tiempo real"
+    ]
+  },
+  {
+    "id": "premium",
+    "nombre": "Premium",
+    "precio": 79,
+    "beneficios": [
+      "Almacenamiento ilimitado",
+      "Soporte dedicado 24/7",
+      "Integraciones personalizadas",
+      "SSO y Logs"
+    ]
+  }
+]

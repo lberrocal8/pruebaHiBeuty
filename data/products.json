@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombre": "Toolkit Dev",
+    "categoria": "Utilidad",
+    "planRequerido": "basic",
+    "imagen": "/img/toolkit.png"
+  },
+  {
+    "id": 2,
+    "nombre": "API Manager",
+    "categoria": "Gestión",
+    "planRequerido": "pro",
+    "imagen": "/img/api.png"
+  },
+  {
+    "id": 3,
+    "nombre": "Cloud runner",
+    "categoria": "Infraestructura",
+    "planRequerido": "premium",
+    "imagen": "/img/cloud.png"
+  }
+]
